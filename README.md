@@ -37,8 +37,6 @@ Want to discuss code or collaborate? Feel free to connect:
 - **GitHub**: [@iamrealkkd](https://github.com/iamrealkkd)
 - **LinkedIn**: [@iamrealkkd](https://www.linkedin.com/in/iamrealkkd)
 - **Twitter**: [@iamrealkkd](https://twitter.com/iamrealkkd)
-- **Instagram**: [@iamrealkkd](https://instagram.com/iamrealkkd)
-- **YouTube**: [@iamrealkkd](https://youtube.com/@iamrealkkd)
 - **Email**: [iamrealkkd@gmail.com](mailto:iamrealkkd@gmail.com)
 
 Happy coding! 🌟 Let's turn ideas into code!
