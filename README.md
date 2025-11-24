@@ -9,7 +9,7 @@ Welcome to my repository! As a Computer Science student and code enthusiast, I a
 - 🖥️ **CS Student**: Pursuing a degree in Computer Science.
 - 💡 **Code Enthusiast**: Passionate about creating, debugging, and solving complex problems.
 - 🛠️ **Tech Skills**: 
-  - Proficient in **C language**.
+  - Proficient in **C++ language**.
   - Currently exploring advanced concepts of **DSA in C++**.
 
 ---
