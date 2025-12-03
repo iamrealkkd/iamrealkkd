@@ -27,7 +27,7 @@ Welcome to my repository! As a Computer Science student and code enthusiast, I a
 
 - **Languages**: C++, C
 - **Editor**: Visual Studio Code
-- **Platforms**: LeetCode, HackerRank, Codeforces
+- **Platforms**: LeetCode, Codeforces
 
 ---
 
