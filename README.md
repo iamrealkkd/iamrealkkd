@@ -1,7 +1,5 @@
 # 👨‍💻 Krishna's Coding Journey 🚀
 
-Welcome to my repository! As a Computer Science student and code enthusiast, I am diving into the world of **Data Structures and Algorithms (DSA)** with C++. This repository reflects my commitment to learning, practicing, and mastering programming concepts while building a strong foundation in problem-solving.
-
 ---
 
 ## 🔍 About Me
