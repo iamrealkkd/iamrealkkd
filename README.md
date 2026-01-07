@@ -25,7 +25,7 @@
 
 - **Languages**: C++, C
 - **Editor**: Visual Studio Code
-- **Platforms**: LeetCode, Codeforces
+- **Platforms**: LeetCode, Codeforces, CodeChef, AtCoder
 
 ---
 
