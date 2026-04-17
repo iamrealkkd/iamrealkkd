@@ -1,4 +1,4 @@
-# 👨‍💻 Krishna's Coding Journey 🚀
+# 👨‍💻 Krishna | Think. Code. Build. Repeat.
 
 ---
 
@@ -102,6 +102,9 @@ I enjoy breaking complex problems into simple logic and continuously improving a
   </a>
   <a href="https://www.linkedin.com/in/iamrealkkd">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/iamrealkkd">
+    <img src="https://img.shields.io/badge/Twitter (X)-black?style=for-the-badge&logo=x"/>
   </a>
   <a href="mailto:iamrealkkd@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
