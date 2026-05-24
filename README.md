@@ -1,122 +1,32 @@
-# Krishna
-### `CS Undergrad · Class of 2028`
+<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h3 align="center">Turning caffeine and curiosity into code</h3>
 
-> Think. **Code.** Build. **Repeat.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrealkkd&label=Profile%20views&color=0e75b6&style=flat" alt="iamrealkkd" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrealkkd" alt="iamrealkkd" /></a> </p>
 
-## 🔥 GitHub Stats
+- 🌱 I’m currently learning **Backend**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrealkkd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1724&title_color=64ffda&icon_color=64ffda&text_color=94a3b8&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrealkkd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1724&title_color=64ffda&text_color=94a3b8&cache_seconds=86400" height="170"/>
+- 📫 How to reach me **iamrealkkd@gmail.com**
+
+- ⚡ Fun fact **I installed Arch Linux using a memory card. No regrets.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamrealkkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrealkkd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamrealkkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrealkkd" height="30" width="40" /></a>
+<a href="https://instagram.com/iamrealkkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrealkkd" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/iamrealkkd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamrealkkd" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/iamrealkkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamrealkkd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iamrealkkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamrealkkd" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/iamrealkkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamrealkkd" height="30" width="40" /></a>
 </p>
 
-## ⚡ GitHub Streak
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrealkkd&theme=tokyonight&hide_border=true&background=0f1724&stroke=1e293b&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrealkkd&show_icons=true&locale=en&layout=compact" alt="iamrealkkd" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrealkkd&show_icons=true&locale=en" alt="iamrealkkd" /></p>
 
-## 📊 Coding Profiles
-
-### 🔥 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/iamrealkkd?theme=dark&font=baloo&ext=heatmap&border=0&radius=0" />
-</p>
-
-### ⚡ Codeforces Profile
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=iamrealkkd&theme=dark" />
-</p>
-
----
-
-## 🔍 About Me
-
-- `01` CS undergrad building strong fundamentals in DSA and system design
-- `02` Passionate about problem solving — breaking complex logic into clean solutions
-- `03` Building frontend projects and exploring modern web development
-- `04` Exploring AI/ML — NLP, applied research, and learning in public with **#dreameraspirant**
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Core Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🛠 Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
-
-## 📚 Current Focus
-
-| # | Area | Details |
-|---|------|---------|
-| 01 | **DSA** | Daily solving in C++ — arrays, trees, graphs, DP |
-| 02 | **Competitive Programming** | LeetCode · Codeforces · CodeChef · AtCoder |
-| 03 | **Frontend Projects** | React + Tailwind — building clean, modern UIs |
-| 04 | **AI/ML Exploration** | NLP research, applied ML, research internship hunt |
-
----
-
-## 🚀 Coding Platforms
-
-`01` LeetCode &nbsp;&nbsp; `02` Codeforces &nbsp;&nbsp; `03` CodeChef &nbsp;&nbsp; `04` AtCoder
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌌 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/iamrealkkd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iamrealkkd">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/iamrealkkd">
-    <img src="https://img.shields.io/badge/Twitter_(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:iamrealkkd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ✨ Quote
-
-> *"Consistency beats talent when talent doesn't stay consistent."*
-
----
-
-<p align="center">⭐ Happy Coding &nbsp;·&nbsp; Keep building. Keep improving. 🚀</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrealkkd&" alt="iamrealkkd" /></p>
