@@ -21,7 +21,7 @@
 
 ## 🌱 About Me
 
-- 🌱 I'm currently learning **Backend**
+- 🧩 Learning new things, building random stuff, and figuring things out along the way.
 - 📫 How to reach me: **iamrealkkd@gmail.com**
 
 ## 🔗 Connect with me
