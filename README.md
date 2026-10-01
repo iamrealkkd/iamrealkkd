@@ -4,20 +4,9 @@
 
 ### One commit closer to something useful
 
-<img src="https://komarev.com/ghpvc/?username=iamrealkkd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="iamrealkkd" />
-
 </div>
 
 <br/>
-
-## 🏆 GitHub at a Glance
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/iamrealkkd?style=for-the-badge&logo=github&color=0e75b6&labelColor=1a1a1a)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamrealkkd&label=Public%20Repos&query=public_repos&style=for-the-badge&logo=github&color=0e75b6&labelColor=1a1a1a)
-
-</div>
 
 ## 🌱 About Me
 
